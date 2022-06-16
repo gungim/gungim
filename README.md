@@ -1,4 +1,4 @@
-[![](https://count.getloli.com/get/@xiaolin)](https://count.getloli.com)
+[![](https://count.getloli.com/get/@gungim?theme=rule34)](https://count.getloli.com)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
