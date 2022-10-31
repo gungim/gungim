@@ -11,3 +11,4 @@
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/isXiaoLin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gungim&hide=php)](https://github.com/gungim)
